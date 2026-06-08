@@ -5,7 +5,7 @@
 * 南通大学不确定人工智能与脑认知研究团队
 * 重庆邮电大学大数据计算智能团队
 * 🔬研究方向：不确定性信息处理与知识挖掘、多粒度认知计算理论等（粗糙集、模糊集、阴影集、三支决策li）
-* 邮箱: gaomandaner@qq.com
+* 邮箱: gaomandaner@qq.com；gaomandancer@gmail.com
 
 ---
 
